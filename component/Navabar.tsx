@@ -8,6 +8,7 @@ export default function Navabar() {
   return (
    <div>
    <p>hà xuân huy</p>
+   <p>Ptit</p>
    </div>
   );
 }
