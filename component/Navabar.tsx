@@ -9,7 +9,8 @@ export default function Navabar() {
    <div>
    <p>hà xuân huy</p>
    <p>Ptit</p>
-   <p>{demo}</p>
+   <h1>hihh</h1>
+   <p>Nextjs</p>
    </div>
   );
 }
