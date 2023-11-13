@@ -4,11 +4,12 @@ import { useEffect, useState } from 'react';
 import { decrement } from '../redux/Actions';
 
 export default function Navabar() {
- 
+ const [demo , setDemo] = useState(1)
   return (
    <div>
    <p>hà xuân huy</p>
    <p>Ptit</p>
+   <p>{demo}</p>
    </div>
   );
 }
